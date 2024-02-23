@@ -1,0 +1,28 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.event-details {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .event-details h1 {
+    color: #333;
+  }
+  
+  .event-description,
+  .event-price {
+    margin-top: 16px;
+  }
+  
+  .event-description strong,
+  .event-price strong {
+    display: block;
+    margin-bottom: 8px;
+    color: #666;
+  }
+  
+  /* Add any additional styles you need here */
+  
